@@ -9,6 +9,4 @@ def solution(arr):
             cur = i
     
     return answer
-
-arr = list(map(int, input().split(',')))
-print(arr)
+    
