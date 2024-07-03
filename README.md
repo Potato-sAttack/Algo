@@ -11,6 +11,7 @@ https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit
 
 기한 : 7월 12일 금요일
 
+각자 이름으로 branch 생성, 풀이 날짜로 commit
 branch 생성 및 commit 방법
 https://github.com/AlgoLeadMe/AlgoLeadMe-1/wiki/%F0%9F%93%84-Git-%EC%84%A4%EC%B9%98%EB%B6%80%ED%84%B0-PR%EA%B9%8C%EC%A7%80
 참조
