@@ -1,4 +1,4 @@
-"폰켄몬 문제"
+"폰켄몬 문제(7/4)"
 
 def solution(nums):
     max_choice_num=len(nums)/2
@@ -26,7 +26,7 @@ def solution(nums):
 
 """
 
-""" 완주하지 못한 선수 문제"""
+""" 완주하지 못한 선수 문제(7/4)"""
 def solution(participant, completion):
     p_dic={}
     answer=""
@@ -51,7 +51,7 @@ completion의 명단에 있으면 사람수를 빼준다
 """ 
 
 
-"""전화번호 목록 문제"""
+"""전화번호 목록 문제(7/4)"""
 
 def solution(phone_book):
     phone_book.sort()
@@ -69,7 +69,7 @@ for문으로 돌면서 길이작은 순,사전 순으로 정렬되어있을거�
 
 """
 
-"""의상 문제"""
+"""의상 문제(7/4)"""
 
 def solution(clothes):
     
