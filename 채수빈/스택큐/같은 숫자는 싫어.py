@@ -9,4 +9,5 @@ def solution(arr):
             cur = i
     
     return answer
-    
+
+# print(solution('1123'))
