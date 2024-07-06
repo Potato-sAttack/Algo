@@ -42,6 +42,6 @@ def solution(priorities, location):
     #     else: answer += 1
     
 
-priorities = [2, 1, 3, 2]
-location = 2
-print(solution(priorities, location))
+# priorities = [2, 1, 3, 2]
+# location = 2
+# print(solution(priorities, location))
