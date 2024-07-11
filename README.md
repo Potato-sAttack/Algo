@@ -17,3 +17,8 @@ branch 생성 및 commit 방법
 https://github.com/AlgoLeadMe/AlgoLeadMe-1/wiki/%F0%9F%93%84-Git-%EC%84%A4%EC%B9%98%EB%B6%80%ED%84%B0-PR%EA%B9%8C%EC%A7%80
 
 참조
+
+<img width="725" alt="image" src="https://github.com/Potato-sAttack/Algo/assets/129251870/d6cc0a72-ffa2-49c8-84f3-58d10a2f0bb7">
+
+<img width="701" alt="image" src="https://github.com/Potato-sAttack/Algo/assets/129251870/a6570700-efcf-419b-960b-09eb957a0365">
+
