@@ -7,13 +7,9 @@ def compare(x, y):
         return -1
 
 def solution(numbers):
-
-    numbers = map(str, numbers)
-
+    numbers = list(map(str, numbers))
     numbers = sorted(numbers, key=cmp_to_key(compare))
-
     answer = ''.join(numbers)
-
     if answer[0] == '0':
         answer = '0'
     return answer
